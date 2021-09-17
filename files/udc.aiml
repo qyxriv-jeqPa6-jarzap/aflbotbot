@@ -74,8 +74,6 @@
       <pattern>WHAT HAPPENED IN QUARTER THREE</pattern>
       <template>The Pies had the territory early in the quarter, with the Blues defence under heavy fire early. Walsh was clever in the contest and Cripps and Williams’ pressure through the middle was handy as the Blues looked to get back in the game. A barometer of the Blues' life in pressure in the second term, Fogarty kicked his first goal in the Navy Blue followed by a snap from Zac Fisher shortly after. In his 50th game for the Club, McKay attempted to will the Blues back in the game off his own boot, kicking two quick goals to take his tally to four for the match and get the Blues back in the game. It was a single-digit ball game at the final change, with the Blues trailing by nine points in front of a vocal MCG crowd.
 
-
-
 </template>
   </category>
   
@@ -115,7 +113,6 @@
     <template>The Collingwood had 97 marks and the Carlton not far behind got 91 marks</template>
 </category>
 
-
 <category>
     <pattern>WHO HAD THE MOST TACKLES</pattern>
     <template>Carlton had 47 tackles and the Collingwood had 65 tackles</template>
@@ -126,5 +123,4 @@
     <template>The Carlton had 71 turn overs</template>
 </category>
 
- 
 </aiml> 

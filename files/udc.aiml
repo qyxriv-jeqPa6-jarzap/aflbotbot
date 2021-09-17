@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+  <category>
+    <pattern>*</pattern>
+    <template>Sorry but I have no answer for that.</template>
+  </category>
+  
+  <category>
+      <pattern>HELLO BOT</pattern>
+      <template>Hello World!</template>
+  </category>
+  
+  <category>
+      <pattern>HELLO *</pattern>
+      <template>Hello User!</template>
+  </category>
+  
+    <category>
+      <pattern>HI *</pattern>
+      <template>Hello User!</template>
+  </category>
+  
+  <category>
+      <pattern>HI</pattern>
+      <template>Hello User!</template>
+  </category>
+ 
+ <category>
+      <pattern>MY NAME IS MR HUTCHINS</pattern>
+      <template>Hello Mr Hutchins</template>
+  </category>
+  
+  <category>
+      <pattern>* Nathan Hutchings</pattern>
+      <template>Sir what's up???</template>
+  </category>
+ 
+ <category>
+      <pattern>HI *</pattern>
+      <template>Hello User!</template>
+  </category>
+  
+<category>
+    <pattern>MY NAME IS * *</pattern>
+    <template>Hello <star index="1"/>. How are you Mr <star index="2"/>?</template>
+</category>
+
+<category>
+      <pattern>SAY *</pattern>
+      <template><star index="1"/></template>
+  </category>
+  
+  <category>
+      <pattern>COLOR *</pattern>
+      <template>Are you American?</template>
+  </category>
+  
+  <category>
+      <pattern>WHAT HAPPENED IN QUARTER ONE</pattern>
+      <template>Zac Williams was busy early in his first minutes as a Blue, controlling the ball through the middle and setting up scoring opportunities in the forward 50. Jack Martin slotted an early goal in his return to the side while Marc Pittonet provided a strong contest against Brodie Grundy. Collingwood was clean in getting the ball inside its forward 50, with its conversion in front of goal causing headaches for the home side. Michael Gibbons delivered a clever snap on goal to keep it tight, while Lachie Fogarty’s pressure was consistent across the field. Adam Saad provided speed and class across half back, leading the disposal count for Carlton in the first term, but it was the Pies who well and truly held the ascendancy on the scoreboard with a three-goal lead.
+
+</template>
+  </category>
+  
+ <category>
+      <pattern>WHAT HAPPENED IN QUARTER TWO</pattern>
+      <template>Collingwood started the quarter quickly with two goals in the first minute, before Marc Pittonet kicked his first AFL goal to get the Blues going in the second term. Martin provided an option for the Blues in the middle and up forward, taking his tally to three goals for the game, before Gibbons once again bobbed up with a Goal of the Year contender to get back into the game. Collingwood dominated the contested possession count, but Carlton was able to hang on through the boot of McKay. Jacob Weitering and Sam Docherty did everything in their power to lock down the defensive 50, but a Collingwood run-on in the final moments left Carlton with plenty to do in the second half.
+
+</template>
+  </category>
+  
+   <category>
+      <pattern>WHAT HAPPENED IN QUARTER THREE</pattern>
+      <template>The Pies had the territory early in the quarter, with the Blues defence under heavy fire early. Walsh was clever in the contest and Cripps and Williams’ pressure through the middle was handy as the Blues looked to get back in the game. A barometer of the Blues' life in pressure in the second term, Fogarty kicked his first goal in the Navy Blue followed by a snap from Zac Fisher shortly after. In his 50th game for the Club, McKay attempted to will the Blues back in the game off his own boot, kicking two quick goals to take his tally to four for the match and get the Blues back in the game. It was a single-digit ball game at the final change, with the Blues trailing by nine points in front of a vocal MCG crowd.
+
+
+
+</template>
+  </category>
+  
+    <category>
+      <pattern>WHAT HAPPENED IN QUARTER FOUR</pattern>
+      <template>Carlton started the quarter as they ended it, with a lot of ball in their forward half and asking the question of Collingwood's back line. However, it was the Pies that managed to take advantage of the Blues inability to hit the scoreboard early and answered with two goals of their own, putting the Blues on the back foot. It was ultimately a case of what might have been for the Blues as - despite a third goal for Gibbons - a snap from Brody Mihocek sealed the deal for the Pies, rendering the Blues to a 21-point defeat.
+
+</template>
+  </category>
+  
+  <category>
+      <pattern>WHO WON *</pattern>
+      <template>The Collingwood won with a total score of 106 points to 85 beating Carlton by 21 points</template>
+  </category>
+  
+  
+  <category>
+      <pattern>WHO KICKED THE GOALS FOR CARLTON</pattern>
+      <template>McKay 4, Martin 3, Gibbons 3, Pittonet, Fogarty, Fisher</template>
+  </category>
+  
+  <category>
+      <pattern>WHAT WAS THE MOMENT OF THE MATCH </pattern>
+      <template>A career goal seven years in the making. Marc Pittonet slotted his first goal not only as a Blue, but the maiden goal of his career in general. Goalless across his opening five seasons at Hawthorn and Carlton, Pittonet opened his account early in the second quarter after an interception and true set shot. One of Carlton's best on the night, Lachie Fogarty followed suit in the third term with his first in his new colours.
+
+</template>
+  </category>
+  
+<category>
+    <pattern>WHO HAD THE MOST INSIDE 50S</pattern>
+    <template>The Carlton had 60 inside 50s and Collingwood had 48</template>
+</category>
+
+ 
+<category>
+    <pattern>WHO HAD THE MOST MARKS</pattern>
+    <template>The Collingwood had 97 marks and the Carlton not far behind got 91 marks</template>
+</category>
+
+
+<category>
+    <pattern>WHO HAD THE MOST TACKLES</pattern>
+    <template>Carlton had 47 tackles and the Collingwood had 65 tackles</template>
+</category>
+
+<category>
+    <pattern>WHO HAD THE MOST TURN OVERS</pattern>
+    <template>The Carlton had 71 turn overs</template>
+</category>
+
+ 
+</aiml> 
